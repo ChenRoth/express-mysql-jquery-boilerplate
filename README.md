@@ -9,3 +9,4 @@ A Boilerplate for creating a full stack project using express 4, mysql, jQuery a
 
 * run `npm i`
 * run `npm start` (or `nodemon server.js` for auto server restarts on code changes)
+* to configure the SQL connection, read the comments in db/db.js
