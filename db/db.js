@@ -1,4 +1,4 @@
-const sql = require('mysql2');
+const sql = require('mysql2/promise');
 
 // you can define your MySQL settings using the following environment variables
 // e.g. SET SQL_DATABASE=myDatabase&&SET SQL_PASSWORD=my-secret-password&& node server.js
