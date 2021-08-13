@@ -1,4 +1,4 @@
-# express-mysql-jquery-boilerplate
+# Express/MySql/jQuery boilerplate
 A Boilerplate for creating a full stack project using express 4, mysql, jQuery and bootstrap
 
 ## Instructions
